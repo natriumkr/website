@@ -10,7 +10,7 @@ function dice(event){
         dice=dice+dice1;
     }
     dice=dice+additional;
-    document.getElementById('output').innerText= dice;
+    document.getElementById('output').innerHTML= dice;
 
 
 
