@@ -3,4 +3,9 @@ head{
   padding: 0px;
   background-color: lightblue;
   height:50px;
+  text-align: center;
+
+  h1{
+    color:black;
+  }
 }
