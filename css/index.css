@@ -1,17 +1,5 @@
-body{
-  .grid{
-    display:grid;
-    grid-template-columns: repeat(3,1fr);
-    grid-template-rows: repeat(3,50px);
-    column-gap: 20px;
-    row-gap: 50px;
-    li{
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      padding: 20px;
-      border-radius: 10px;
-      background-color: antiquewhite;
-    }
-  }
+head{
+  margin:50px;
+  padding: 0px;
+  background-color: lightblue;
 }
